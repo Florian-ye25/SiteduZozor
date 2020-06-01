@@ -156,7 +156,6 @@ article {
 aside {
     flex:1.2;
     background-color: #706b64;
-    height: 450px;
     position: relative;
     font-size: 0.9em;
     color: white;
