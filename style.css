@@ -32,7 +32,6 @@ body
 #bloc_page { 
     width: 900px;
     margin: auto;
-    border: 1px solid black;
 }
 
 
@@ -204,21 +203,50 @@ article p {
 footer {
     display: flex;
     background: url(images/ico_top.png) no-repeat top center, url(images/ombre/png) repeat-x, url(images/separateur.png) repeat-x;
-    justify-content: space-between;
     padding-top: 25px;
-    margin: 20px;
+   
 }
 
 footer h1 {
     font-size: 1.1em;
 }
 
-footer p {
+footer p, footer ul {
     font-size: 0.8em;
 }
 
+#mes_photos img {
+    margin-right: 2px;
+    border: 1px solid #181818;
+}
 
+#tweet {
+    width : 28%;
+    margin-left: 25px;
+}
 
+#mes_photos {
+    width: 35%;
+}
 
+#mes_amis {
+    width: 31%;
+}
+
+#listes_amis {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0px;
+}
+
+#mes_amis ul {
+    list-style-image: url(images/ico_liensexterne.png);
+    padding-left: 2px;
+}
+
+#mes_amis a {
+    text-decoration:none;
+    color: #760001;
+}
 
 
