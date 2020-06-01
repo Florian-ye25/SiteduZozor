@@ -207,8 +207,12 @@ footer {
     justify-content: space-between;
 }
 
-footer h1, footer p {
+footer h1 {
     font-size: 1.1em;
+}
+
+footer p {
+    font-size: 0.8em;
 }
 
 
