@@ -201,3 +201,7 @@ article p {
 
 /*footer */
 
+footer {
+    display: flex;
+    background: url(images/ico_top.png) no-repeat top center, url(images/ombre/png) repeat-x, url(images/separateur.png) repeat-x;
+}
