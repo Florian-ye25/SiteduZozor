@@ -43,6 +43,8 @@ section h1, footer h1, nav a
     text-transform: uppercase;
 }
 
+/* mise en place du header */
+
 header {
     background: url('images/separateur.png') repeat-x bottom;
     display:flex;
@@ -95,6 +97,8 @@ nav a:hover {
     border-bottom: 3px solid #760001;
 }
 
+/* mise en place de la bannière */
+
 #banniere {
     margin-top: 15px;
     height: 200px;
@@ -137,6 +141,8 @@ nav a:hover {
 .see_article img {
    border: 0;
 }
+
+/* mise en place de la section */
 
 section {
     display: flex;
@@ -192,3 +198,6 @@ article p {
     display: flex;
     justify-content: space-between;
 }
+
+/*footer */
+
