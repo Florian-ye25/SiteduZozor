@@ -204,4 +204,13 @@ article p {
 footer {
     display: flex;
     background: url(images/ico_top.png) no-repeat top center, url(images/ombre/png) repeat-x, url(images/separateur.png) repeat-x;
+    justify-content: space-between;
 }
+
+footer h1, footer p {
+    font-size: 1.1em;
+}
+
+
+
+
