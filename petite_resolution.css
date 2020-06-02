@@ -43,5 +43,15 @@
 	#image_zozor img {
 		float: right;
 		width: 110px;
+		margin-left: 15px; 
+	}
+
+	aside p:last-child {
+		text-align: center;
+	}
+
+	#listes_amis {
+		flex-direction: column;
+		padding-left: 10px;
 	}
 }
