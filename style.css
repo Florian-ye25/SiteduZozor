@@ -192,10 +192,8 @@ article p {
     font-size: 0.8em;
 }
 
-
-#mes_reseaux {
-    display: flex;
-    justify-content: space-between;
+aside img {
+    margin-right: 5px;
 }
 
 /*footer */

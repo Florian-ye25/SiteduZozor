@@ -3,11 +3,15 @@
 		width: auto;
 	}
 
+	nav {
+		width: auto;
+	}
+
 	nav ul {
 		flex-direction: column;
 	}
 
-	nav a:hover {
+	nav a {
 		font-size: 1.1em;
 	}
 
@@ -23,4 +27,7 @@
 		display: none;
 	}
 
+	#image_zozor {
+		float: right;
+	}
 }
