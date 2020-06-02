@@ -14,4 +14,13 @@
 	#banniere {
 		display: none;
 	}
+
+	section {
+		flex-direction: column;
+	}
+
+	.fleche_bulle {
+		display: none;
+	}
+
 }
