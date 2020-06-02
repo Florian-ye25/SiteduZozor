@@ -27,6 +27,11 @@
 		display: none;
 	}
 
+	article, aside {
+		width: auto;
+		margin-bottom: 15px;
+	}
+
 	section {
 		flex-direction: column;
 	}
@@ -35,7 +40,8 @@
 		display: none;
 	}
 
-	#image_zozor {
+	#image_zozor img {
 		float: right;
+		width: 110px;
 	}
 }
