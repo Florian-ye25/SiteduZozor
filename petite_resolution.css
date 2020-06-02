@@ -1,3 +1,17 @@
 @media screen and (max-width: 1024px) {
+	#bloc_page {
+		width: auto;
+	}
 
+	nav ul {
+		flex-direction: column;
+	}
+
+	nav a:hover {
+		font-size: 1.1em;
+	}
+
+	#banniere {
+		display: none;
+	}
 }
